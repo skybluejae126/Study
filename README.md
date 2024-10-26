@@ -10,7 +10,7 @@
      (Date : 2024.05.13 ~ 2024.05.17)
 
     Type : Unity, Vr, 3D
-     // Detail : You should delivery 3 boxes on proper table.
+     // Project Detail : You have mission to complete. You should delivery 3 boxes on proper table.
     
      
     
