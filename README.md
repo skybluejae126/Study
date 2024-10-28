@@ -1,7 +1,19 @@
 # 📖 Study Unity 📖
 
 ### ✎ Practice ✎
-  - [`알고리즘`]
+  - ['US1_Trash_Flight'](https://github.com/skybluejae126/Study_Unity/tree/master/US1_Trash_Flight)
+     (Date : 2024.09.24 ~ 2024.09.26)
+
+    Type : Unity, 2D
+
+    Detail, Source : Destroy all trashes form the sky. And defeat the Boss. from Youtube "나도코딩"
+
+  - ['US2_AA'](https://github.com/skybluejae126/Study_Unity/tree/master/US2_AA)
+     (Date : 2024.09.30 ~ 2024.10.1)
+
+    Type : Unity, 2D
+
+    Detail, Source : Launch pin to circle, as many as you can. from Youtube "나도코딩"
 
 <br>
 
