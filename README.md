@@ -15,6 +15,13 @@
 
     Detail, Source : Launch pin to circle, as many as you can. from Youtube "나도코딩"
 
+  - ['US3_Animal_Match'](https://github.com/skybluejae126/Study_Unity/tree/master/US3_Animal_Match)
+     (Date : 2024.11.06 ~ 2024.11.08)
+
+    Type : Unity, 2D
+
+    Detail, Source : Find same animal card. from Youtube "나도코딩"
+
 <br>
 
 ### 💡 Project 💡
